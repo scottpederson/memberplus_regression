@@ -1,6 +1,11 @@
 # MemberPlus App Regression Tests
 *Note: tap memberplus logo on login screen 4x and verify you are on production environment
 
+## Overall things to check for:
+
+1. Images load
+2.
+
 ## Login
 
 1. Login with valid credentials ("Remember Me"" off)
@@ -18,18 +23,41 @@
 4. Toggle group/interest
 5. Check profile completion against MIC. Increase or decrease it
 6. Test Checkin History
-7. 
 
 ## Settings
+1. Send Feedback
+2. Contact Support
+3. Verify that Environment, Software version, Android version, Account, and Association ID are correct
 
 
 ## Home
+1. Post to Feed
+2. Search Directory
+3. View an upcoming event
+4. Check notifications
 
 
 ## Community Feed
+1. Post a comment
+1. Delete a comment
+2. Like a comment
+2. Unlike a comment
+3. Comment on a post
+4. Delete a comment on a post
 
 
 ## Business Directory
+
+1. Search for a business
+2. Search for a rep
+3. Search for a group
+4. search for favorites
+5. Click on a business
+-- 1. Click Map and Directions
+--2. Click Email
+--3. Click representatives
+--4. Check-in at this business
+
 
 
 ## Events Calendar
