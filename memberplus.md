@@ -3,8 +3,8 @@
 
 ## Overall things to check for:
 
-1. Images load
-2. Speed pages load
+1. Images/icons load
+2. Speed with which screens load
 
 ## Login
 
@@ -35,7 +35,8 @@
 2. Search Directory
 3. View an upcoming event
 4. Check notifications
-
+5. Add Hot Deal
+6. Add New Event
 
 ## Community Feed
 1. Post a comment
