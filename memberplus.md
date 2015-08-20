@@ -4,7 +4,7 @@
 ## Overall things to check for:
 
 1. Images load
-2.
+2. Speed pages load
 
 ## Login
 
@@ -53,10 +53,10 @@
 3. Search for a group
 4. search for favorites
 5. Click on a business
--- 1. Click Map and Directions
---2. Click Email
---3. Click representatives
---4. Check-in at this business
+  1. Click Map and Directions
+  2. Click Email
+  3. Click representatives
+  4. Check-in at this business
 
 
 
