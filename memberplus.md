@@ -4,7 +4,7 @@
 ## Overall things to check for:
 
 1. Images/icons load
-2. Speed with which screens load
+2. Screen load times
 
 ## Login
 
